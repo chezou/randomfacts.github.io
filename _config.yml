@@ -1,16 +1,16 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+  chezou:
+    image_url: https://pbs.twimg.com/profile_images/3512660657/c7724f0f2022e87c568dec7af95909a6_400x400.jpeg
+    name: chezou
+    url: http://twitter.com/chezou
+  suginoy:
+    image_url: https://pbs.twimg.com/profile_images/641060075298095104/qANwP39K_400x400.jpg
+    name: suginoy
+    url: http://twitter.com/suginoy
+author: chezou
+description: Random Facts club is a podcast for technical random facts
+description_long: Random Facts club is a podcast for technical random facts.
+email: chezou@randomfacts.club
 exclude:
   - docker
   - docker-compose.yml
@@ -20,14 +20,14 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: rfclub
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: tech,podcast
 language: ja
 markdown: kramdown
-permalink: /episode/:title
+permalink: /:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: Random Facts Club
+url: https://randomfacsts.club
