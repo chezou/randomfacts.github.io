@@ -1,3 +1,3 @@
-# Yattecast
+# RandomFacts.club
 
-https://r7kamura.github.io/yattecast/
+https://randomfacts.club/
