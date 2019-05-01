@@ -8,8 +8,8 @@ actors:
     name: suginoy
     url: http://twitter.com/suginoy
 author: chezou
-description: Random Facts club is a podcast for technical random facts
-description_long: Random Facts club is a podcast for technical random facts.
+description: Random Facts club is a podcast for things useless for your work
+description_long: Random Facts club is a podcast for technical random facts, i.e. things useless for your work.
 email: chezou@randomfacts.club
 exclude:
   - docker
