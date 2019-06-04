@@ -7,9 +7,25 @@ actors:
     image_url: https://pbs.twimg.com/profile_images/641060075298095104/qANwP39K_400x400.jpg
     name: suginoy
     url: http://twitter.com/suginoy
-author: chezou
+  mametter:
+    image_url: https://pbs.twimg.com/profile_images/1216012047/mame2-twitter_400x400.png
+    name: mametter
+    url: http://twitter.com/mametter
+  moriyoshit:
+    image_url: https://pbs.twimg.com/profile_images/1126905587831193600/rHrX6-aI_400x400.png
+    name: moriyoshit
+    url: http://twitter.com/moriyoshit
+  bonotake:
+    image_url: https://pbs.twimg.com/profile_images/641060075298095104/qANwP39K_400x400.jpg
+    name: bonotake
+    url: http://twitter.com/bonotake
+  golden_lucky:
+    image_url: https://pbs.twimg.com/profile_images/751690712119332864/sFDergcw_400x400.jpg
+    name: golden_lucky
+    url: http://twitter.com/golden_lucky
+author: Aki Ariga
 description: Random Facts club is a podcast for things useless for your work
-description_long: Random Facts club is a podcast for technical random facts, i.e. things useless for your work.
+description_long: A podcast for technical random facts, i.e. things useless for your work
 email: chezou@randomfacts.club
 exclude:
   - docker
