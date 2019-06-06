@@ -37,7 +37,7 @@ exclude:
   - vendor
 google_analytics:
 hashtag: rfclub
-itunes_podcast_url:
+itunes_podcast_url: https://podcasts.apple.com/jp/podcast/random-facts-club/id1462384987
 keywords: tech,podcast
 language: ja
 markdown: kramdown
