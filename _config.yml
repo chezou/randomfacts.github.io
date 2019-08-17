@@ -2,27 +2,31 @@ actors:
   chezou:
     image_url: https://pbs.twimg.com/profile_images/3512660657/c7724f0f2022e87c568dec7af95909a6_400x400.jpeg
     name: chezou
-    url: http://twitter.com/chezou
+    url: https://twitter.com/chezou
   suginoy:
     image_url: https://pbs.twimg.com/profile_images/641060075298095104/qANwP39K_400x400.jpg
     name: suginoy
-    url: http://twitter.com/suginoy
+    url: https://twitter.com/suginoy
   mametter:
     image_url: https://pbs.twimg.com/profile_images/1216012047/mame2-twitter_400x400.png
     name: mametter
-    url: http://twitter.com/mametter
+    url: https://twitter.com/mametter
   moriyoshit:
     image_url: https://pbs.twimg.com/profile_images/1126905587831193600/rHrX6-aI_400x400.png
     name: moriyoshit
-    url: http://twitter.com/moriyoshit
+    url: https://twitter.com/moriyoshit
   bonotake:
     image_url: https://pbs.twimg.com/profile_images/1175903592/img.php_400x400.jpg
     name: bonotake
-    url: http://twitter.com/bonotake
+    url: https://twitter.com/bonotake
   golden_lucky:
     image_url: https://pbs.twimg.com/profile_images/751690712119332864/sFDergcw_400x400.jpg
     name: golden_lucky
-    url: http://twitter.com/golden_lucky
+    url: https://twitter.com/golden_lucky
+  kuenishi:
+    image_url: https://pbs.twimg.com/profile_images/1000661577660481536/gXqQ8Jdq_400x400.jpg
+    name: kuenishi
+    url: https://twitter.com/kuenishi
 author: Aki Ariga
 description: Random Facts club is a podcast for things useless for your work
 description_long: A podcast for technical random facts, i.e. things useless for your work
