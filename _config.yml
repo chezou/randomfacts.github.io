@@ -35,6 +35,10 @@ actors:
     image_url: https://pbs.twimg.com/profile_images/630251928576897024/BzaJLPpY_400x400.jpg
     name: overs_5121
     url: https://twitter.com/overs_5121
+  shiumachi:
+    image_url: https://pbs.twimg.com/profile_images/378800000112360750/fca0f65ff763dc6baf428a286f238da1_400x400.png
+    name: shiumachi
+    url: https://twitter.com/shiumachi
 author: Aki Ariga
 description: Random Facts club is a podcast for things useless for your work
 description_long: A podcast for technical random facts, i.e. things useless for your work
