@@ -4,39 +4,39 @@ actors:
     name: chezou
     url: https://twitter.com/chezou
   suginoy:
-    image_url: https://pbs.twimg.com/profile_images/641060075298095104/qANwP39K_400x400.jpg
+    image_url: /images/suginoy.jpg
     name: suginoy
     url: https://twitter.com/suginoy
   mametter:
-    image_url: https://pbs.twimg.com/profile_images/1216012047/mame2-twitter_400x400.png
+    image_url: /images/mametter.png
     name: mametter
     url: https://twitter.com/mametter
   moriyoshit:
-    image_url: https://pbs.twimg.com/profile_images/1126905587831193600/rHrX6-aI_400x400.png
+    image_url: /images/moriyoshit.jpg
     name: moriyoshit
     url: https://twitter.com/moriyoshit
   bonotake:
-    image_url: https://pbs.twimg.com/profile_images/1175903592/img.php_400x400.jpg
+    image_url: /images/bonotake.jpg
     name: bonotake
     url: https://twitter.com/bonotake
   golden_lucky:
-    image_url: https://pbs.twimg.com/profile_images/751690712119332864/sFDergcw_400x400.jpg
+    image_url: /images/golden_lucky.jpg
     name: golden_lucky
     url: https://twitter.com/golden_lucky
   kuenishi:
-    image_url: https://pbs.twimg.com/profile_images/1000661577660481536/gXqQ8Jdq_400x400.jpg
+    image_url: /images/kuenishi.jpg
     name: kuenishi
     url: https://twitter.com/kuenishi
   hurutoriya:
-    image_url: https://pbs.twimg.com/profile_images/949178339406725120/df6XIH9f_400x400.jpg
+    image_url: /images/hurutoriya.jpg
     name: hurutoriya
     url: https://twitter.com/hurutoriya
   overs_5121:
-    image_url: https://pbs.twimg.com/profile_images/630251928576897024/BzaJLPpY_400x400.jpg
+    image_url: /images/overs_5121.jpg
     name: overs_5121
     url: https://twitter.com/overs_5121
   shiumachi:
-    image_url: https://pbs.twimg.com/profile_images/378800000112360750/fca0f65ff763dc6baf428a286f238da1_400x400.png
+    image_url: /images/shiumachi.png
     name: shiumachi
     url: https://twitter.com/shiumachi
 author: Aki Ariga
