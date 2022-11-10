@@ -1,6 +1,6 @@
 actors:
   chezou:
-    image_url: https://pbs.twimg.com/profile_images/3512660657/c7724f0f2022e87c568dec7af95909a6_400x400.jpeg
+    image_url: /images/chezou.jpg
     name: chezou
     url: https://twitter.com/chezou
   suginoy:
