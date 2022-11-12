@@ -39,9 +39,13 @@ actors:
     image_url: /images/shiumachi.png
     name: shiumachi
     url: https://twitter.com/shiumachi
+  tahkosan:
+    image_url: /images/tahkosan.jpg
+    name: tahkosan
+    url: https://twitter.com/tahkosan
 author: Aki Ariga
 description: Random Facts club is a podcast for things useless for your work
-description_long: A podcast for technical random facts, i.e. things useless for your work
+description_long: a podcast for technical random facts, i.e. things useless for your work
 email: chezou@randomfacts.club
 exclude:
   - docker
@@ -63,3 +67,4 @@ sass:
 timezone: Asia/Tokyo
 title: Random Facts Club
 url: https://randomfacsts.club
+form_url: https://forms.gle/LRPkkKBuRLqEua2R9
